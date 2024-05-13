@@ -12,13 +12,13 @@ Current image-based keypoint detection methods for animal (including human) bodi
 ## Usage
 
 ### Data preparation
-Please follow the [official guide](https://github.com/luminxu/Pose-for-Everything) to prepare the MP-100 dataset for training and evaluation, and organize the data structure properly. MP-78 will be coming soon.
+Please follow the [official guide](https://github.com/luminxu/Pose-for-Everything) to prepare the MP-100 dataset for training and evaluation, and organize the data structure properly. The images in the MP-78 dataset are consistent with MP100. To obtain the annotation files for MP78, please contact zhanghao520@stu.xjtu.edu.cn. Please be aware that the annotations are intended for non-commercial use only.
 
 ### Install
 Please first install pytorch and torchvision following official documentation [Pytorch](https://pytorch.org/get-started/previous-versions/). Then, run `pip install -r requirements.txt`.
 
 ### Training and Test
-The codes and the trained models will be available soon.
+The specific training and testing codes, as well as the trained model filescheckpoints will be available soon.
 
 ## Citation
 ```bibtex
