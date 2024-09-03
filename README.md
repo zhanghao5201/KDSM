@@ -24,13 +24,13 @@ The specific training and testing codes, as well as the trained model filescheck
 
 ## Citation
 ```bibtex
-@misc{zhang2023openvocabulary,
-      title={Open-Vocabulary Animal Keypoint Detection with Semantic-feature Matching}, 
-      author={Hao Zhang and Lumin Xu and Shenqi Lai and Wenqi Shao and Nanning Zheng and Ping Luo and Yu Qiao and Kaipeng Zhang},
-      year={2023},
-      eprint={2310.05056},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@article{zhang2024open,
+  title={Open-vocabulary animal keypoint detection with semantic-feature matching},
+  author={Zhang, Hao and Xu, Lumin and Lai, Shenqi and Shao, Wenqi and Zheng, Nanning and Luo, Ping and Qiao, Yu and Zhang, Kaipeng},
+  journal={International Journal of Computer Vision},
+  pages={1--18},
+  year={2024},
+  publisher={Springer}
 }
 ```
 
