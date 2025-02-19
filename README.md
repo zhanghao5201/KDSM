@@ -19,8 +19,6 @@ The annotation files for MP78 are in "KDSM/annotation/". Please be aware that th
 ### Install
 Please first install pytorch and torchvision following official documentation [Pytorch](https://pytorch.org/get-started/previous-versions/). Then, run `pip install -r requirements.txt`.
 
-### Training and Test
-The specific training and testing codes, as well as the trained model filescheckpoints will be available soon.
 
 ## Citation
 ```bibtex
